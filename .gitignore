@@ -6,8 +6,11 @@ venv/
 *.egg-info/
 dist/
 .DS_Store
+<<<<<<< HEAD
 
 # Never commit raw data files
 data/*.csv
 data/*.xlsx
 *.csv
+=======
+>>>>>>> 0b8489c3a35744d880da3af86150a647c438cae5
